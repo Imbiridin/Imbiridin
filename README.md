@@ -33,14 +33,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, construind
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Imbiridin&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imbiridin&layout=compact&theme=radical&hide_border=true" width="30%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imbiridin&theme=default" width="30%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imbiridin&theme=deafult" width="62%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imbiridin&theme=default&exclude={exclude}">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imbiridin&theme=radical&hide_border=true" width="70%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imbiridin&theme=default" width="70%"/>
 
 </div>
 
-> Estatísticas geradas com [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), de **Anurag Hazra**.
 
 <br>
 
