@@ -5,7 +5,7 @@
 
 </div>
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, construindo minha trajetória na área de TI a partir de uma base sólida em atendimento ao público e organização de processos. Nos últimos anos venho investindo em capacitação técnica — cursos de Excel Avançado, Power BI e Análise de Dados — unindo raciocínio lógico e facilidade com ferramentas tecnológicas ao interesse por desenvolvimento de sistemas e análise de dados.
 
