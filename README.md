@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Imbiridin/Imbiridin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner com meu nome -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:C0392B&height=200&section=header&text=Marcos%20Imbiriba&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, construindo minha trajetória na área de TI a partir de uma base sólida em atendimento ao público e organização de processos. Nos últimos anos venho investindo em capacitação técnica — cursos de Excel Avançado, Power BI e Análise de Dados — unindo raciocínio lógico e facilidade com ferramentas tecnológicas ao interesse por desenvolvimento de sistemas e análise de dados.
+
+- 🌱 Aprendendo constantemente sobre desenvolvimento de sistemas, bancos de dados e análise de dados.
+- 💬 Pode me chamar para falar sobre Java, dados ou tecnologia em geral.
+
+<br>
+
+## 💻 Linguagens que eu domino
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Imbiridin&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imbiridin&layout=compact&theme=radical&hide_border=true" width="30%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imbiridin&theme=radical&hide_border=true" width="70%"/>
+
+</div>
+
+> Estatísticas geradas com [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), de **Anurag Hazra**.
+
+<br>
+
+<!-- Animação de onda no rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,100:1A1A2E&height=120&section=footer" width="100%"/>
