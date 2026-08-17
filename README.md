@@ -35,11 +35,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, construind
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imbiridin&theme=default" width="30%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imbiridin&theme=default" width="62%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imbiridin&theme=default" width="45%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imbiridin&theme=default" width="35%">
 
 </div>
-
-> Cards gerados com [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).
 
 <br>
 
