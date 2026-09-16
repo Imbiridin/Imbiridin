@@ -7,10 +7,10 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, construindo minha trajetória na área de TI a partir de uma base sólida em atendimento ao público e organização de processos. Nos últimos anos venho investindo em capacitação técnica — cursos de Excel Avançado, Power BI e Análise de Dados — unindo raciocínio lógico e facilidade com ferramentas tecnológicas ao interesse por desenvolvimento de sistemas e análise de dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Senac, construindo minha trajetória na área de TI a partir de uma base sólida em atendimento ao público e organização de processos. Nos últimos anos venho investindo em capacitação técnica — cursos de Excel Avançado, Power BI e Análise de Dados — unindo raciocínio lógico e facilidade com ferramentas tecnológicas ao interesse por desenvolvimento de sistemas e análise de dados.
 
-- 🌱 Aprendendo constantemente sobre desenvolvimento de sistemas, bancos de dados e análise de dados.
-- 💬 Pode me chamar para falar sobre Java, dados ou tecnologia em geral.
+🌱 Estou aprendendo constantemente sobre desenvolvimento de sistemas, bancos de dados e análise de dados.
+💬 Pode me chamar para falar sobre Java, dados ou tecnologia em geral.
 
 <br>
 
